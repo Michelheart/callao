@@ -1,10 +1,16 @@
 
-
-
-body{
-
-     background-image: #back.jpg;
+<html>
+<head>
+<style>
+body {
+  background-image: url("back.jpg");
 }
+</style>
+</head>
+<body>
+
+</html>
+
 
 li{
     color: green;
@@ -17,5 +23,9 @@ p{
 }
 
 div{
+    text-align: center;
+}
+
+ul{
     text-align: center;
 }
